@@ -11,7 +11,7 @@ Delays
 Low Customer Satisfaction
 ## Tools Used
 Excel: 
- Power query for data transformation
++ Power query for data transformation
  
 ## Project Approach
 Data collection
