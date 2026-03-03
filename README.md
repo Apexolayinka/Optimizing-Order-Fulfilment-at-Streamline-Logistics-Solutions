@@ -27,8 +27,9 @@ Excel:
 + Backed orders
 + Backlog rate
 + CSAT score
-+ Avearge delivery time
-Built excel-based dashboard to generate insights.
++ Average delivery time
+### Dashboard Development
+#### + Built excel-based dashboard to generate insights.
 Proffer recommendations
 ## Dashboard
 [View Dashboard here](https://github.com/user-attachments/assets/549645ba-86d3-4914-8bd8-f69d24875215)
