@@ -1,0 +1,2 @@
+# Optimizing-Order-Fulfilment-at-Streamline-Logistics-Solutions
+This project focused on optimizing the order fulfilment process at Streamline Logistics Solutions, a long-standing player in logistics and supply chain and industry experiencing delays, backlogs of orders and low customer satisfaction. Using operational data, I conducted exploratory Data Analysis to identify bottlenecks and inefficiencies.
