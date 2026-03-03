@@ -20,9 +20,14 @@ Excel:
 + Removed duplicates and blanks from the dataset
 + Altered some incorrectly spelt data such as zn1 and zone1 to Zone 1
 + Created helper columns such as delay flag, backlog flag, weekday, time and hour of the day.
-3️⃣Key Performance Indicators Development
+#### 3️⃣Key Performance Indicators Development
 + Created Pivot Tables to calculate:
-  ++ Total orders
++ Total orders
++ Delayed orders
++ Backed orders
++ Backlog rate
++ CSAT score
++ Avearge delivery time
 Built excel-based dashboard to generate insights.
 Proffer recommendations
 ## Dashboard
