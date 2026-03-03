@@ -15,3 +15,4 @@ Data cleaning: Removed duplicates and blanks from the dataset, alter some incorr
 Created pivot table to calculate Key Performance Indicators.
 Built excel-based dashboard to generate insights.
 Proffer recommendations
+[View Dashboard] width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/549645ba-86d3-4914-8bd8-f69d24875215" />
