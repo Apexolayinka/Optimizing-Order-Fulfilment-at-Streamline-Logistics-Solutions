@@ -8,12 +8,16 @@ This project aims to eliminate backlogs and enhance operational efficiency, redu
 Streamline Logistics Solutions is experiencing the following projects: 
 Backlogs of orders
 Delays
-Low Customer Satisfaction 
+Low Customer Satisfaction
+## Tools Used
+Excel: 
+ Power query for data transformation
+ 
 ## Project Approach
 Data collection
 Data cleaning: Removed duplicates and blanks from the dataset, alter some incorrectly spelt data such as zn1 and zone1 to Zone 1. Created helper columns such as delay flag, backlog flag, weekday, time and hour of the day.
 Created pivot table to calculate Key Performance Indicators.
 Built excel-based dashboard to generate insights.
 Proffer recommendations
-## Dashoard
-[View Dashboard](https://github.com/user-attachments/assets/549645ba-86d3-4914-8bd8-f69d24875215)
+## Dashboard
+[View Dashboard here](https://github.com/user-attachments/assets/549645ba-86d3-4914-8bd8-f69d24875215)
