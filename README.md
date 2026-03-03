@@ -13,10 +13,10 @@ Low Customer Satisfaction
 Excel: 
 + Power query for data transformation
  
-## 🛠 Project Approach
-### 1️⃣ Data collection
+### 🛠 Project Approach
+#### 1️⃣ Data collection
 + Collected from internal systems. 
-### 2️⃣ Data cleaning
+#### 2️⃣ Data cleaning
 + Removed duplicates and blanks from the dataset
 + Altered some incorrectly spelt data such as zn1 and zone1 to Zone 1
 + Created helper columns such as delay flag, backlog flag, weekday, time and hour of the day.
