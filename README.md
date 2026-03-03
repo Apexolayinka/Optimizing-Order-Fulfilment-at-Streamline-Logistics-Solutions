@@ -29,7 +29,7 @@ Excel:
 + CSAT score
 + Average delivery time
 ### Dashboard Development
-#### + Built excel-based dashboard to generate insights.
+#### Built an excel-based dashboard to visualize KPIs using charts
 Proffer recommendations
 ## Dashboard
 [View Dashboard here](https://github.com/user-attachments/assets/549645ba-86d3-4914-8bd8-f69d24875215)
