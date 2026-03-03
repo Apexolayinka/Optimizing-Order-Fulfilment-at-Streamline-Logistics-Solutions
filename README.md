@@ -15,9 +15,14 @@ Excel:
  
 ## 🛠 Project Approach
 1️⃣Data collection
-+ Collected 
-Data cleaning: Removed duplicates and blanks from the dataset, alter some incorrectly spelt data such as zn1 and zone1 to Zone 1. Created helper columns such as delay flag, backlog flag, weekday, time and hour of the day.
-Created pivot table to calculate Key Performance Indicators.
++ Collected from internal systems. 
+2️⃣Data cleaning
++ Removed duplicates and blanks from the dataset
++ Altered some incorrectly spelt data such as zn1 and zone1 to Zone 1
++ Created helper columns such as delay flag, backlog flag, weekday, time and hour of the day.
+3️⃣Key Performance Indicators Development
++ Created Pivot Tables to calculate:
+  ++ Total orders
 Built excel-based dashboard to generate insights.
 Proffer recommendations
 ## Dashboard
