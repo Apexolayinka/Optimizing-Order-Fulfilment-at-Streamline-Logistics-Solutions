@@ -34,7 +34,7 @@ Excel:
 + Built an excel-based dashboard to visualize KPIs using charts
 ### 📊Dashboard
 [View Dashboard here](https://github.com/user-attachments/assets/549645ba-86d3-4914-8bd8-f69d24875215)
-### 📚KPIs AND METRICS
+#### 📚KPIs AND METRICS
 + There are 1500 ordered items; 733 (49%) has been delivered, 767(51%) are in progress.
 + There are 520 negative, 490 neutral and 481 positive feedbacks from customers.
 + Customers satisfaction is pegged at 32%.
