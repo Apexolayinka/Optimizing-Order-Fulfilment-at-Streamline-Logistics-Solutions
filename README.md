@@ -48,14 +48,14 @@ Excel:
 + Expedited rule allocation shows the lowest delay in item delivery.
 + Backlogs occurs the least in the evenings with 11.15% compare to mornings and afternoons with backlog rate of 45.19% and 43.65% respectively.
 ## ✅RCOMMENDATION
-Expedited rule allocation should be optimized for most backlogged order deliveries as it has shown to be efficient.
-Route 5 should be considered as the only route for transporting items while investigation should be carried out on other routes as to why delay times are so high.
-There should be a reward based system for the best perfoming drivers, this would motivate other drivers to up their game.
-Van A has shown effectiveness and efficiency, hence, should be used more.
-There should be adoption of tools such as Transport Management System(TMS), Fleet Management System(FMS) and specialized Driver Management System(DMS) to track drivers’ location, optimize routes and vehicle perfomance in real-time.
-Targeted training should be provided to those drivers with consistence delays or low ratings.
-Flexible staffing models should be adopted(e.g there should be more staffs on days where there are high order volumes.
-If standard and custom allocation rules must be sustained, then evening delivery times can be explored as it as shown to have the lowest backlogs.
++ Expedited rule allocation should be optimized for most backlogged order deliveries as it has shown to be efficient.
++ Route 5 should be considered as the only route for transporting items while investigation should be carried out on other routes as to why delay times are so high.
++ There should be a reward based system for the best perfoming drivers, this would motivate other drivers to up their game.
++ Van A has shown effectiveness and efficiency, hence, should be used more.
++ There should be adoption of tools such as Transport Management System(TMS), Fleet Management System(FMS) and specialized Driver Management System(DMS) to track drivers’ location, optimize routes and vehicle perfomance in real-time.
++ Targeted training should be provided to those drivers with consistence delays or low ratings.
++ Flexible staffing models should be adopted(e.g there should be more staffs on days where there are high order volumes.
++ If standard and custom allocation rules must be sustained, then evening delivery times can be explored as it as shown to have the lowest backlogs.
 ## 🥉OUTCOME OF RECOMMENDATIONS
 -- Having adopted the recommendations highlighted, there should be:
 Faster deliveries
