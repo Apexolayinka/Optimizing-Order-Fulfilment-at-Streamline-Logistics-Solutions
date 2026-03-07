@@ -47,7 +47,7 @@ Excel:
 + Highest volume of orders is conveyed via Route 5, yet it has the lowest delay time.
 + Expedited rule allocation shows the lowest delay in item delivery.
 + Backlogs occurs the least in the evenings with 11.15% compare to mornings and afternoons with backlog rate of 45.19% and 43.65% respectively.
-##✅RCOMMENDATION
+## ✅RCOMMENDATION
 Expedited rule allocation should be optimized for most backlogged order deliveries as it has shown to be efficient.
 Route 5 should be considered as the only route for transporting items while investigation should be carried out on other routes as to why delay times are so high.
 There should be a reward based system for the best perfoming drivers, this would motivate other drivers to up their game.
