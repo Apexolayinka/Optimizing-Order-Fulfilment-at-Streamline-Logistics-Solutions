@@ -1,4 +1,4 @@
-### Optimizing-Order-Fulfilment-at-Streamline-Logistics-Solutions
+### Optimizing Order Fulfilment at Streamline Logistics Solutions
 This project focused on optimizing the order fulfilment process at Streamline Logistics Solutions, a long-standing player in logistics and supply chain and industry experiencing delays, backlogs of orders and low customer satisfaction. Using operational data, I conducted exploratory Data Analysis to identify bottlenecks and inefficiencies.
 ### 📌Project Overview
 This project involved analyzing and improving the order fulfilment workflow at Streamline Logistics Solutions, a distinguished and a long-standing player in logistics and supply chain and industry experiencing delays, backlogs of orders and low customer satisfaction. Using operational data, I conducted exploratory Data Analysis to identify bottlenecks and inefficiencies. Through Excel visualization, KPIs and metrics, the project was able to highlight the key drivers of delays and backlogs. Recommendations were provided such as implementing predictive and flexible staffing models, re-routing item transportation for faster deliveries. This project provided actionable insights which Faster deliveries eliminated backlogs, increased drivers productivity, enhanced operational efficiency and Improved Customer satisfaction.
@@ -12,6 +12,8 @@ Streamline Logistics Solutions is experiencing the following problems:
 ### ⛏ Tools Used
 Excel: 
 + Power query for data transformation
++ Pivot Tables
++ Dashboard design
  
 ### 🛠 Project Approach
 #### 1️⃣ Data collection
