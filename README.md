@@ -17,7 +17,7 @@ Excel:
  
 ### 🛠 Project Approach
 #### 1️⃣ Data collection
-+ Collected from internal systems. 
++ Collected data from internal systems. 
 #### 2️⃣ Data cleaning
 + Removed duplicates and blanks from the dataset
 + Altered some incorrectly spelt data such as zn1 and zone1 to Zone 1
