@@ -68,5 +68,7 @@ After implementing the proposed recommendations, the following improvements are 
 #### 🙎‍♂️AUTHOR 
 #### TIMOTHY KURANGA
 ##### DATA ANALYST
-[instagram](https://www.instagram.com/apex_olayinka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apex_olayinka)
+
+[![instagram](https://www.instagram.com/apex_olayinka)
 
