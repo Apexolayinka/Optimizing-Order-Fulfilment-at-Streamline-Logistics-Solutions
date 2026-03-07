@@ -65,8 +65,8 @@ After implementing the proposed recommendations, the following improvements are 
 + increase in drivers' productivity by approximately 32%
 + improved operational efficiency
 + Increase in Customer satisfaction by up to 75%
-#### AUTHOR 
+#### 🙎‍♂️AUTHOR 
 #### TIMOTHY KURANGA
 ##### DATA ANALYST
-
+[instagram](https://www.instagram.com/apex_olayinka)
 
