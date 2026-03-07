@@ -6,9 +6,9 @@ This project involved analyzing and improving the order fulfilment workflow at S
 This project aims to eliminate backlogs and enhance operational efficiency, reduce operational delay and cost, improve visibility into order fulfilment and improve customer satisfaction.
 ## 🚩 Business Problems
 Streamline Logistics Solutions is experiencing the following problems: 
-Backlogs of orders
-Delays
-Low Customer Satisfaction
++ Backlogs of orders
++ Delays
++ Low Customer Satisfaction
 ## ⛏ Tools Used
 Excel: 
 + Power query for data transformation
