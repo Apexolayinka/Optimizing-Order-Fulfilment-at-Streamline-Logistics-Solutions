@@ -57,12 +57,12 @@ Excel:
 + Flexible staffing models should be adopted(e.g there should be more staffs on days where there are high order volumes.
 + If standard and custom allocation rules must be sustained, then evening delivery times can be explored as it as shown to have the lowest backlogs.
 ### 🥉OUTCOME OF RECOMMENDATIONS
-Having adopted the recommendations highlighted, there should be:
+After implementing the proposed recommendations, the following improvements are expected:
 + Faster deliveries
-+ Eliminate backlogs
-+ increased drivers productivity by 32%
-+ Enhance operational efficiency
-+ Improve Customer satisfaction by 75%
++ Reduction in delivery backlogs
++ increase in drivers' productivity by approximately 32%
++ improved operational efficiency
++ Increase in Customer satisfaction by up to 75%
 #### AUTHOR 
 #### TIMOTHY KURANGA
 ##### DATA ANALYST
